@@ -6,7 +6,7 @@
 Proyek ini bertujuan untuk merancang dan mengimplementasikan sakelar yang dapat dikendalikan dari jarak jauh melalui internet. Menggunakan platform IoT Blynk, perangkat ini memungkinkan pengguna untuk mengontrol perangkat elektronik seperti lampu atau peralatan lainnya melalui aplikasi blynk web atau perangkat seluler.
 
 ## Fitur Utama
-- 🔥 Pengendalian jarak jauh melalui aplikasi Blynk.
+- 🎮 Pengendalian jarak jauh melalui aplikasi Blynk.
 - ⏰ Jadwal waktu untuk mengaktifkan atau menonaktifkan perangkat.
 - 📲 Notifikasi saat perangkat diaktifkan atau dinonaktifkan.
 - 🚨 Otomatisasi berdasarkan deteksi gerakan.
